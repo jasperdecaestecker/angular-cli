@@ -33,3 +33,5 @@ ng build
 `--base-href` (`-bh`) base url for the application being built
 
 `--aot` flag whether to build using Ahead of Time compilation
+
+`--no-sourcemap` flag to disable sourcemap from being built
